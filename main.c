@@ -40,3 +40,4 @@ void handleUserInput() {
 void displayResult(int result) {
     printf("The result is: %d\n", result);
 }
+// 수민이가 함
