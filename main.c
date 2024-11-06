@@ -40,3 +40,5 @@ void handleUserInput() {
 void displayResult(int result) {
     printf("The result is: %d\n", result);
 }
+
+// Hello I am 몰라 뽀삐 - 서켱쥐
