@@ -41,3 +41,5 @@ void displayResult(int result) {
     printf("The result is: %d\n", result);
 }
 // 수민이가 함
+
+// Hello I am 몰라 뽀삐 - 서켱쥐
