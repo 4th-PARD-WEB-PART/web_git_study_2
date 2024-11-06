@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
+
 void handleUserInput();
 void displayResult(int result);
 void performCalculation(int x, int y);
@@ -43,3 +44,4 @@ void displayResult(int result) {
 // 수민이가 함
 
 // Hello I am 몰라 뽀삐 - 서켱쥐
+//수민이는 깃 스터디 중!!:수민
