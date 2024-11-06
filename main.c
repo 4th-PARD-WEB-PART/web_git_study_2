@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
+
 void handleUserInput();
 void displayResult(int result);
 void performCalculation(int x, int y);
@@ -40,3 +41,4 @@ void handleUserInput() {
 void displayResult(int result) {
     printf("The result is: %d\n", result);
 }
+//수민이는 깃 스터디 중!!:수민
